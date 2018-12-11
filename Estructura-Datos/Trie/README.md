@@ -17,15 +17,17 @@ prefix tree.
 
 ![Trie](https://upload.wikimedia.org/wikipedia/commons/b/be/Trie_example.svg)
 
-## References
+## Referencias
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Trie)
-- [Wikipedia](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
-- [Wikipedia](https://ideone.com/TA9rsw)
-- [Wikipedia](https://ideone.com/HOgeWH)
-- [Wikipedia](http://theoryofprogramming.com/2015/01/16/trie-tree-implementation/)
+- [Top Coder](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
+- [Code Ideone 1](https://ideone.com/TA9rsw)
+- [Code Ideone 2](https://ideone.com/HOgeWH)
+- [Theory of Programming](http://theoryofprogramming.com/2015/01/16/trie-tree-implementation/)
 
 Videos 
-- [YouTube](https://www.youtube.com/watch?v=AXjmTQ8LEoI)
-- [YouTube](https://www.youtube.com/watch?v=vlYZb68kAY0)
-- [YouTube](https://www.youtube.com/watch?v=CX777rfuZtM)
+- [Trie Data Structure](https://www.youtube.com/watch?v=AXjmTQ8LEoI)
+- [Data Structures: Solve 'Contacts' Using Tries](https://www.youtube.com/watch?v=vlYZb68kAY0)
+- [Trie Data Structure Tutorial](https://www.youtube.com/watch?v=CX777rfuZtM)
+
+## Problemas
