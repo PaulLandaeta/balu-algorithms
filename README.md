@@ -1,17 +1,21 @@
 # BALU-Algorithms 
-Este repositorio contiene ejemplos basicos de los algoritmos y estructura de datos para los concursos de programacion.
+El presente repositorio contiene ejemplos basicos de los algoritmos y estructura de datos para los concursos de programacion.
 
 Cada algoritmo y/o estructura de datos contiene un README separado donde se explica el funcionamiento de dicho algoritmo ademas de las diferentes fuentes.
+
+`B` - Basico, `A` - avanzado
 
 ## Estructura de Datos
 
 * `A` [Trie](Estructura-Datos/Trie)
+* `A` [Segment Tree](Estructura-Datos/Segment-Tree)
+* `A` [Treap](Estructura-Datos/Treap)
+* `B` [Union Find](Estructura-Datos/Union-Find)
+* `B` [BIT](Estructura-Datos/BIT)
 
 ## Algoritmos
 
-`B` - Basico, `A` - avanzado
-
-### Algorithms by Topic
+### Algoritmos por topicos
 
 * **Matematicas**
   * `B` [Bit Manipulation](src/algorithms/math/bits) - set/get/update/clear bits, multiplication/division by two, make negative etc.
