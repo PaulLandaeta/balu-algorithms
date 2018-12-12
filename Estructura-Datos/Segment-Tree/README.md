@@ -22,14 +22,14 @@ Donde K = Number of retrieved intervals or segments
 
 ## Referencias
 ### WebSites
-[CommonLounge](https://www.commonlounge.com/discussion/e825e3afdcbe4a979b0cc3b34285aa24)
-[Codeforces](https://codeforces.com/blog/entry/18051)
-[Se7so](http://se7so.blogspot.com/2012/12/segment-trees-and-lazy-propagation.html)
-[Algorithmist](http://www.algorithmist.com/index.php/Segmented_Trees)
-[Letuskode](http://letuskode.blogspot.com/2013/01/segtrees.html)
-[Theory Programming](http://theoryofprogramming.com/2015/01/27/segment-trees/)
-[Code Extractor](https://codeextractor.wordpress.com/2016/07/11/playing-with-ranges-segment-tree/)
-[Kartikkukreja](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
-[Codeforces](https://codeforces.com/blog/entry/15890)
+- [CommonLounge](https://www.commonlounge.com/discussion/e825e3afdcbe4a979b0cc3b34285aa24)
+- [Codeforces](https://codeforces.com/blog/entry/18051)
+- [Se7so](http://se7so.blogspot.com/2012/12/segment-trees-and-lazy-propagation.html)
+- [Algorithmist](http://www.algorithmist.com/index.php/Segmented_Trees)
+- [Letuskode](http://letuskode.blogspot.com/2013/01/segtrees.html)
+- [Theory Programming](http://theoryofprogramming.com/2015/01/27/segment-trees/)
+- [Code Extractor](https://codeextractor.wordpress.com/2016/07/11/playing-with-ranges-segment-tree/)
+- [Kartikkukreja](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
+- [Codeforces](https://codeforces.com/blog/entry/15890)
 ### Videos
-[Youtube](https://www.youtube.com/watch?v=Oq2E2yGadnU)
+- [Youtube](https://www.youtube.com/watch?v=Oq2E2yGadnU)
