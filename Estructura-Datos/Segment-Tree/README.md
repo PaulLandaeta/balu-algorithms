@@ -1,11 +1,13 @@
 # Segment Tree
 ### Que es un Segment Tree?
-    Arbol de Segmentos(ST) es basicamente un arbol binario usado para hacer operaciones como suma, minimo, maximo dentro de intervalos o segmentos.
-    Cada nodo en el ST representa un intervalo de L a R por lo tanto el primer nodo del arbol representara al array completo, de lo cual tendremos 3 propiedades basicas. 
-     La Raiz de arbol representa todo el array A=[0,n]
-     Cada hoja del arbol representa un elemento array A=[i] donde 0<i<n
-     Una hoja interna del arbol representa A=[L,R]
-    Tenemos que tener claro que una vez creado el Arbol esta estructura no puede ser mnodificado pero tu si puedes podificar los valores de una hoja.
+
+Arbol de Segmentos(ST) es basicamente un arbol binario usado para hacer operaciones como suma, minimo, maximo dentro de intervalos o segmentos.
+Cada nodo en el ST representa un intervalo de L a R por lo tanto el primer nodo del arbol representara al array completo, de lo cual tendremos 3 propiedades basicas. 
+La Raiz de arbol representa todo el array A=[0,n]
+Cada hoja del arbol representa un elemento array A=[i] donde 0<i<n
+Una hoja interna del arbol representa A=[L,R]
+Tenemos que tener claro que una vez creado el Arbol esta estructura no puede ser mnodificado pero tu si puedes podificar los valores de una hoja.
+
 ### Implementacion
     Dado que un ST es un Arbol binario, para la representacion de dicho arbol podemos hacer el uso de un arbol. 
     Un ST puede ser construido de manera recursiva usando Bottom-up approach. 
